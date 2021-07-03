@@ -1,6 +1,11 @@
 # KannadaBigBossVoting
 Season 8 of Kannada Bigboss is currently airing in Colors Kannada Channel. The Voting of Contestants can be done via Voot website or Voot App. By default this script votes all contestants once. This script can be used to do bulk voting of any contestant with slight modifications with a simple loop.
 
+## Installations and Dependencies ?
+```
+$ pip3 install -r requirements.txt
+```
+
 ## How to run the Script ?
 ```
 $ python3 bbvote.py
